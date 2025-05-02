@@ -34,7 +34,6 @@ Co-Founder, [Polysensus](https://www.polysensus.io/).
 * **Standards & Influence**: Authored multiple IETF drafts, presented at Google Transparency Dev 2024, and contributed to COSE and SCITT standardization efforts, positioning Datatrails as a thought leader in transparency infrastructure.
 * **Composable Game Clients**: Built an independent, real-time rendering client for Dust (DagCity) based solely on on-chain smart contract state—demonstrating autonomous world UX can be built without any backend or privileged infrastructure.
 * **Funding & Entrepreneurship**: Secured £15,000 Optimism Foundation grant for Chaintrap, a choose-your-own-adventure blockchain game implementing novel commit-reveal and merklized move validation mechanisms.
-* **Team Development & Mentorship**: Mentored all engineering hires at Datatrails and managed challenging HR cases with discretion. Built a cohesive, high-trust team culture.
 
 \newpage
 
