@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Robin Bryce, CV
-author: Robin Bryce
 header-includes:
   - \usepackage{xcolor}
   - \usepackage{hyperref}
