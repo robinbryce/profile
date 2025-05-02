@@ -36,7 +36,7 @@ Co-Founder, [Polysensus](https://www.polysensus.io/).
 * **Performance Engineering**: Delivered a 1000× platform throughput improvement by re-architecting internal messaging, reducing broker overhead, and scaling system components.
 * **Federated Identity & Onboarding**: Delivered OAuth2, SSO, and social login integration for multi-tenant systems. Reduced enterprise onboarding from days to hours and supported commercial deployments.
 * **Standards & Influence**: Authored multiple IETF drafts, presented at Google Transparency Dev 2024, and contributed to COSE and SCITT standardization efforts, positioning Datatrails as a thought leader in transparency infrastructure.
-* **Composable Game Clients**: Built an independent, real-time rendering client for Dust (DagCity) based solely on on-chain smart contract state—demonstrating autonomous world UX can be built without any backend or privileged infrastructure.
+* **Composable Game Clients**: Built an independent, rendering client for [Dust](https://www.dustproject.org/) at [DagCity](https://dagcity.polysensus.io/) based solely on on-chain smart contract state—demonstrating autonomous world UX can be built without any backend or privileged infrastructure.
 * **Funding & Entrepreneurship**: Secured £15,000 Optimism Foundation grant for Chaintrap, a choose-your-own-adventure blockchain game implementing novel commit-reveal and merklized move validation mechanisms.
 
 \newpage
