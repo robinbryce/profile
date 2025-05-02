@@ -1,6 +1,13 @@
 ---
 layout: cv
 title: Robin Bryce, CV
+author: Robin Bryce
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true, urlcolor=blue}
+  - \let\oldhref\href
+  - \renewcommand{\href}[2]{\oldhref{#1}{\textit{\textcolor{blue}{#2}}}}
 ---
 
 # Robin Bryce
