@@ -10,8 +10,6 @@ header-includes:
   - \renewcommand{\href}[2]{\oldhref{#1}{\textit{\textcolor{blue}{#2}}}}
 ---
 
-# Robin Bryce
-
 [GitHub](https://github.com/robinbryce/) • [LinkedIn](https://www.linkedin.com/in/robin-bryce-02b3464/) • [Medium](https://robinbryce.medium.com/) • [Games Credits](https://www.mobygames.com/person/120567/robin-bryce/credits/)
 
 > **Robin is a prolific, creative, and driven builder and entrepreneur.** He thrives in highly dynamic, fast-paced environments and enjoys working alongside like-minded, high-caliber individuals. His work spans applied cryptography, digital transparency, and blockchain gaming, where he brings deep expertise in protocol architecture, distributed systems, and smart contract development. Robin is particularly passionate about building systems that align technical innovation with user trust—whether through scalable cryptographic infrastructure, decentralized identity, or game mechanics that push the boundaries of autonomous worlds.
