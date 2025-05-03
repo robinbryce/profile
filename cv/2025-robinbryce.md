@@ -72,6 +72,7 @@ Co-Founder, [Polysensus](https://www.polysensus.io/).
 ## Blockchain Gaming & Writing
 
 - [**The Persistence of Ten-Year-Olds**](https://robinbryce.medium.com/the-persistence-of-ten-year-olds-and-reading-trie-leaves-in-fog-40417f9c85bf) – Background and narrative design for Chaintrap, an on-chain choose-your-own-adventure game funded by Optimism.
+- [**If You Go Down To the Woods Today**](https://github.com/robinbryce/mmriver-supplimental/blob/main/if-you-go-down-to-the-woods-today.md) - Deep dive comparison of MMR based ledgers, taking advantage of cryptographic accumulators, versus classic RFC9162 Certificate Transparency
 - [**From Pages to Tree Leaves**](https://robinbryce.medium.com/from-pages-to-tree-leaves-c44ea9c81fa2) – Explores commit-reveal mechanisms for branching narratives on the blockchain.
 - [**Autonomous Worlds Hack 2024**](https://robinbryce.medium.com/autonomous-worlds-2024-c7833daa111a) – Used ERC-6551 on Redstone to allow cross-game world token interactions without code changes.
 - Finalist in the Redstone launch hackathon, contributing the frontend for AW Tug of War—a dual-world on-chain game mechanic using a shared “rope”.
