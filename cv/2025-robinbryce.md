@@ -27,7 +27,7 @@ Co-Founder, [Polysensus](https://www.polysensus.io/).
 * Delivered [Chaintrap](https://chaintrap-ifw.vercel.app/) – an on-chain, branching narrative game using commit–reveal and a bespoke system for merklized proof of valid moves. [Grant Application](https://gov.optimism.io/t/final-chaintrap-builders-cycle-11/5526)
 * Explored novel cross-game mechanics using MUD2 and ERC-6551, including cross-world item ownership and interaction.
 * Actively contributes to the Autonomous Worlds community through hackathons, demos, and ecosystem experimentation.
-* Delivered the first independent, interactive client for an autonomous world (Dust x DagCity) using only the on-chain smart contract interface. Demonstrated real-time rendering, state sync, and gameplay in a system not built by us — without backend or internal access.
+* Delivered the first independent, interactive client for an autonomous world ([Dust](https://www.dustproject.org/) x [DagCity](https://dagcity.polysensus.io/)) using only the on-chain smart contract interface. Demonstrated real-time rendering, state sync, and gameplay in a system not built by us — without backend or internal access.
 
 ### Datatrails – Principal Engineer (2018–Present)
 
