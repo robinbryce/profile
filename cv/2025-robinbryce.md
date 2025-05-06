@@ -36,7 +36,6 @@ Co-Founder, [Polysensus](https://www.polysensus.io/).
 * Invented and developed [Forestrie](https://www.datatrails.ai/we-are-not-a-blockchain-company/), Datatrails' patented digital provenance ledger – MMR + cloud storage for transparency logs – \[PC933720GB]
 * Invented and developed a patented, privacy-preserving, auditable, transparent smart contract system for digital provenance in enterprise Ethereum EVM systems that support private transactions – Digital provenance with smart contracts – [GB2614297](https://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2614297)
 * Design authority for all aspects of the Datatrails transparency ledger
-* Subject matter expert for applied cryptography, blockchain, smart contracts, and distributed consensus protocols
 * Drove performance, cost optimization, and protocol innovation
 * Delivered IETF contributions and open-source adoption strategies
 * Program manager for Media Authenticity & Auditability product line
